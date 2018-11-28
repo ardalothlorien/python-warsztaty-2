@@ -1,4 +1,4 @@
-Nowak 5
+    Nowak 5
 Kowalski 6
 Malinowska 3
 Biernacki 2
